@@ -1,0 +1,218 @@
+.custom-css {
+    padding-top: 130px !important;
+    background: linear-gradient(107.54deg, #F3F6FF 0.57%, #F2F6FF 46.35%, #DEE9FF 100%) !important;
+}
+
+.custom-css-step {
+    padding-top: 70px !important;
+    background: linear-gradient(107.54deg, #F3F6FF 0.57%, #F2F6FF 46.35%, #DEE9FF 100%) !important;
+}
+
+.height-textarea-css {
+    min-height: 100px !important;
+}
+
+.header-type-one .pm-header-support span {
+    color: #ffffff !important;
+    display: block !important;
+}
+
+.pm-home-css-custom {
+    /* background: linear-gradient(107.54deg, #F3F6FF 0.57%, #F2F6FF 46.35%, #DEE9FF 100%); */
+    background: linear-gradient(107.54deg, #F3F6FF 0.57%, #F2F6FF 46.35%, #DEE9FF 100%) !important;
+}
+
+
+.pm-banner-section-1 .pm-banner-content .pm-banner-text a {
+    height: 60px !important;
+    width: 200px !important;
+    display: block !important;
+    font-weight: 600 !important;
+    line-height: 18px !important;
+    text-align: center !important;
+    background-color: #002793 !important;
+    transition: 0.3s all ease-in-out !important;
+    border-radius: 26px !important;
+}
+
+
+.pm-banner-section-1 .pm-banner-content .pm-banner-text a span {
+    font-family: 'Epilogue', sans-serif !important;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 60px;
+}
+
+.pm-main-header .pm-header-btn {
+    height: 40px !important;
+    width: 115px;
+    line-height: 60px !important;
+    border: 1px solid #002793 !important;
+    transition: 0.3s all ease-in-out !important;
+    box-sizing: border-box;
+    border-radius: 26px;
+    margin-top: 14px;
+}
+
+.checkout {
+    height: 60px !important;
+    width: 220px !important;
+    display: block !important;
+    font-weight: 700 !important;
+    line-height: 60px !important;
+    text-align: center !important;
+    background-color: #dc3545 !important;
+    color: #ffffff !important;
+    transition: 0.3s all ease-in-out !important;
+}
+
+.not-data {
+    color: red;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+/* new home page design custom css  */
+
+.pm-main-header .pm-main-navigation li a {
+    color: #002793 !important;
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    font-family: 'Epilogue', sans-serif !important;
+    font-style: normal;
+    line-height: 16px;
+}
+
+.pm-main-header .pm-header-btn a {
+    color: #002793;
+    font-family: 'Epilogue', sans-serif !important;
+    font-style: normal;
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    line-height: 40px !important;
+}
+
+.pm-main-header .pm-header-btn:hover {
+    background-color: #002793 !important;
+    color: #FFFFFF !important;
+    border: 2px solid #000;
+}
+
+.pm-main-header .pm-header-btn a:hover {
+    color: #FFFFFF !important;
+
+}
+
+.pm-banner-section-1 .pm-banner-content .pm-banner-text .pm-title-tag {
+    background-color: transparent !important;
+}
+
+.pm-title-tag {
+    color: #0A183F !important;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 14px !important;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 32px !important;
+    text-transform: uppercase;
+}
+
+.pm-title-tag:before {
+    background-color: #0A183F;
+    content: "";
+    display: inline-block;
+    height: 1px;
+    position: relative;
+    vertical-align: middle;
+    width: 42px;
+    top: 15px;
+    border: 1px solid #0A183F;
+}
+
+.pm-title-tag:before {
+    right: 0.5em;
+}
+
+.pera-content h2 {
+    font-family: 'Red Hat Display', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 52px;
+    line-height: 69px;
+    color: #0A183F;
+}
+
+.pera-content p {
+    font-family: 'Epilogue', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px !important;
+    line-height: 32px;
+    color: #0A183F;
+    margin-top: 35px;
+}
+
+.hr-line {
+    color: #C5D4FF;
+}
+
+.footer-text samp {
+    font-family: 'Epilogue', sans-serif !important;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 16px;
+    color: #5B688C;
+}
+
+.pm-sticky-menu {
+    background: #ffffff !important;
+}
+
+section#pm-banner-1.pm-banner-section-1.position-relative.custom-css {
+    padding: 130px 0px 0px !important;
+    height: auto !important;
+}
+
+body.pm-home.pm-home-css-custom {
+    height: 100% !important;
+}
+
+.pm-mobile_menu_button {
+    color: #002793 !important;
+}
+
+.pm-mobile_menu_button {
+    top: -45px !important;
+}
+
+.pm-banner-section-1 .pm-banner-content .pm-banenr-img {
+    top: 25px !important;
+    right: -20px !important;
+    animation: zoomIn 1.7s both 0.3s;
+}
+
+.pm-main-header .pm-main-navigation li a:before {
+    background-color: #002793;
+}
+
+@media screen and (max-width:992px) {
+    .pm-banner-section-1 .pm-banner-content .pm-banenr-img {
+        display: none !important;
+    }
+
+}
+
+@media screen and (max-width: 1440px) {
+    .pm-banner-section-1 .pm-banner-content .pm-banenr-img {
+        right: 0px !important;
+    }
+}
+.pm-banner-section-1 .pm-banner-content .pm-banner-text a:hover{
+    background: #f3f6fe !important;
+    color:#002793 !important ;
+    border: 1px solid #002793 !important;
+}

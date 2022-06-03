@@ -1,0 +1,42 @@
+<?php
+
+return array (
+  'name'   => 'Name',
+  'status' => 'Status',
+  
+  'description' => 'Description',
+ 
+  'opening_time'       => 'Opening Time',
+  'closing_time'       => 'Closing Time',
+  'first_name'         => 'First Name',
+  'last_name'          => 'Last Name',
+  'email'              => 'Email',
+  'username'           => 'Username',
+  'phone'              => 'Phone',
+  'password'           => 'Password',
+  'image'              => 'Image',
+  'address'            => 'Address',
+  'site_name'          => 'Site Name',
+  'site_email'         => 'Site Email',
+  'site_footer'        => 'Site Footer',
+  'site_logo'          => 'Site Logo',
+  'timezone'           => 'Timezone',
+  'twilio_auth_token'  => 'Twilio Auth Token',
+  'twilio_account_sid' => 'Twilio Account SID',
+  'twilio_from'        => 'Twilio From',
+  'disabled'           => 'Disabled',
+  
+  'id'                  => 'ID',
+  'actions'             => 'Actions',
+  'user'                => 'User',
+  'title'               => 'Title',
+  'url'                 => 'URL',
+  'submit'              => 'Submit',
+  'date'                => 'Date',
+  'footer_menu_section' => 'Footer Menu Section',
+  'publish'             => 'Publish',
+  'review'              => 'Review',
+  'update'              => 'Update',
+  'update_sms_setting'  => 'Update Sms Setting',
+  'sms_setting'         => 'SMS Setting',
+);

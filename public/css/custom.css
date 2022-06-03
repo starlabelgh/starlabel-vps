@@ -1,0 +1,288 @@
+/**
+ *
+ * You can write your CSS code here, DO NOT touch the default JavaScript file
+ * because it will make it harder for you to update.
+ *
+ */
+
+/*# sourceMappingURL=custom.css.map */
+img {
+    max-width: 100% !important;
+}
+
+.height-textarea {
+	min-height: 200px !important;
+}
+
+.input-daterange .btn-outline-secondary {
+	border-color : #e4e6fc;
+	color: #495057;
+}
+
+button#date-search:hover, button#refresh:hover {
+	color: #000 !important;
+	background-color: #dbdfe3 !important;
+}
+
+.order.card {
+	border: 1px dashed #beb6b6;
+}
+
+.order.card .card-body {
+	padding-bottom: 0;
+}
+
+.order.card .card-footer {
+	padding: 0 25px 20px !important;
+}
+
+
+.small-textarea-height {
+	min-height: 100px !important;
+}
+
+.bg-maroon-light {
+    background-color: #6777ef !important;
+    color: #fff !important;
+}
+
+.profile-dashboard {
+    background: #009688;
+    color: #fff;
+    text-align: center;
+    font-style: italic;
+    padding: 5px;
+    padding-top: 15px;
+    border-radius: 4px 4px 0 0;
+    -webkit-border-radius: 4px 4px 0 0;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.profile-dashboard img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border: 3px solid #d2d6de;
+    padding: 3px;
+}
+
+.profile-dashboard h1 {
+    font-size: 16px;
+    font-weight: 300;
+    margin-top: 8px;
+    margin-bottom: 0px;
+}
+
+.profile-dashboard p {
+    font-size: 12px;
+    margin-bottom: 0px;
+}
+
+
+.card-profile {
+    text-align: center;
+    padding: 5px;
+    padding-top: 15px;
+    font-size: 16px;
+}
+
+.card-profile img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border:3px solid #d2d6de;
+    padding: 3px;
+}
+
+.card-profile h3 {
+    font-size: 18px;
+    font-weight: 300;
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+
+.card-profile p {
+    font-size: 12px;
+    margin-bottom: 0px;
+}
+
+.single-profile {
+	width: 50%;
+	float: left;
+}
+
+.profile-picture {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.03);
+    float: left;
+    width: 120px;
+    height: 120px;
+    margin: -35px -5px 0 30px;
+    position: relative;
+    z-index: 1;
+    border:3px solid #d2d6de;
+    padding: 3px;
+    background: #fff;
+}
+
+.display-none {
+    display: none;
+}
+
+.display-block {
+    display: block;
+}
+
+.avatar-item {
+    width: 40px;
+}
+
+.select2.form-control.red-border {
+    border: 1px solid red !important;
+    border-color: red !important;
+}
+
+.no-padding{
+    padding: 0px !important;
+    padding-top: 5px !important;
+
+}
+
+.profile-desc {
+    display: block;
+    overflow: hidden;
+}
+
+.single-full-profile {
+    margin-bottom: 1rem;
+    overflow: hidden;
+    float: left;
+    width: 100%;
+}
+
+.single-full-profile p {
+    margin-bottom: 0px;
+    line-height: 20px
+}
+
+.profile-list-group-item {
+    padding: 3px 5px;
+    font-size: 14px;
+}
+
+.profile-list-group-item-addresss {
+    line-height: 14px;
+    padding-top: 7px;
+}
+
+.card-profile p {
+    line-height: 16px;
+    margin-bottom: 5px;
+}
+
+.image-width {
+    width: 120px !important;
+}
+
+.paymentheader {
+    font-size:16px;
+    color:#6777ef
+}
+
+.report-print-button {
+    position: absolute;
+    right: 20px;
+}
+
+
+/*Menu design overide*/
+
+.main-sidebar .sidebar-menu li ul.dropdown-menu li a {
+    padding-left: 40px !important;
+}
+
+.main-sidebar .sidebar-menu li a i {
+    margin-right: 10px !important;
+}
+
+
+/*setting page css*/
+
+.setting-fieldset {
+    border: 1px solid #DBDEE0 !important;
+    padding: 15px !important;
+    margin: 0 0 25px 0 !important;
+    box-shadow: 0px 0px 0px 0px #000;
+}
+
+.setting-legend {
+    font-size: 1.1em !important;
+    font-weight: bold !important;
+    text-align: left !important;
+    width: auto;
+    color: #6777ef;
+    padding: 5px 15px;
+    border: 1px solid #DBDEE0 !important;
+    margin: 0px;
+}
+
+/* backened dashboard checkout button  starts*/
+
+.inputid{
+    height:40px !important;
+     width:200px !important;
+}
+.inputbtn{
+    background-color: #3bb556;
+    height: 40px;
+    color: white;
+    font-size: 20px;
+}
+.inputbtnclockin{
+    background-color: #121313;
+    height: 40px;
+    color: white;
+    font-size: 20px;
+}
+.inputbtnclockout{
+    background-color: #D30000;;
+    height: 40px;
+    color: white;
+    font-size: 20px;
+}
+.clock-span{
+    font-size: 18px;
+    font-weight: bold;
+}
+.clock-span i{
+    font-size: 18px;
+}
+.hidecheck {
+    display: block;
+    margin-right: 10px !important;
+    margin-left: 9px !important;
+  }
+
+ @media (max-width: 595px) {
+    .hidecheck {
+      /* display: none; */
+      margin-right: 5px !important;
+      margin-left: 8px !important;
+      margin-bottom: 2px;
+    }
+    .inputbtn{
+        height: 30px;
+        font-size: 15px;
+    }
+    .inputid{
+        height:30px !important;
+        width:130px !important;
+    }
+  }
+
+  /* backened dashboard checkout button  stops*/
+
+
+
